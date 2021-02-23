@@ -1,0 +1,8 @@
+"Story","Title","Result","Date","Stability","Duration (s)"
+"Staff page test","Staff page test","SUCCESS","2021-02-15T23:57:50.243335Z[Europe/London]","0.0","16.66"
+"Gold test","Gold login test","SUCCESS","2021-02-15T23:58:07.853393Z[Europe/London]","0.0","10.27"
+"Gold test","Home panel","SUCCESS","2021-02-15T23:58:18.151376Z[Europe/London]","0.0","7.32"
+"Client journey test","Client journey test","SUCCESS","2021-02-15T23:58:25.621669Z[Europe/London]","0.0","193.05"
+"Training page test","Training page test","SUCCESS","2021-02-16T00:01:38.954761Z[Europe/London]","0.0","15.99"
+"Dialler page test","Dialler page test","SUCCESS","2021-02-16T00:01:55.087267Z[Europe/London]","0.0","16.38"
+"Data page test","Data page test","SUCCESS","2021-02-16T00:02:11.600634Z[Europe/London]","0.0","33.67"
