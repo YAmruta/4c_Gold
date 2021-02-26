@@ -4,11 +4,28 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9649d6f7-f592-49f0-b409-17ca6a92dd84" name="Default Changelist" comment="" />
+    <list default="true" id="9649d6f7-f592-49f0-b409-17ca6a92dd84" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/serenity.properties" beforeDir="false" afterPath="$PROJECT_DIR$/serenity.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/GoldPages/ClientJourneyPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/GoldPages/ClientJourneyPage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/GoldTests/ClientJourneyTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/GoldTests/ClientJourneyTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/Steps/ClientJourneySteps.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Steps/ClientJourneySteps.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/serenity/SERENITY-JUNIT-c39b204eb194a93e782384b01fc5f31c14e020bf923ee1b2f2e99413e1950cc2.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/serenity/SERENITY-JUNIT-c39b204eb194a93e782384b01fc5f31c14e020bf923ee1b2f2e99413e1950cc2.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/serenity/browser-chrome.properties" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/serenity/browser-chrome.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/serenity/c39b204eb194a93e782384b01fc5f31c14e020bf923ee1b2f2e99413e1950cc2.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/serenity/c39b204eb194a93e782384b01fc5f31c14e020bf923ee1b2f2e99413e1950cc2.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/serenity/c39b204eb194a93e782384b01fc5f31c14e020bf923ee1b2f2e99413e1950cc2.json" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/serenity/c39b204eb194a93e782384b01fc5f31c14e020bf923ee1b2f2e99413e1950cc2.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/serenity/c39b204eb194a93e782384b01fc5f31c14e020bf923ee1b2f2e99413e1950cc2_screenshots.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/serenity/c39b204eb194a93e782384b01fc5f31c14e020bf923ee1b2f2e99413e1950cc2_screenshots.html" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
   </component>
   <component name="ExternalProjectsData">
     <projectState path="$PROJECT_DIR$">
@@ -43,10 +60,17 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProblemsViewState">
     <option name="selectedIndex" value="1" />
   </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
   <component name="ProjectId" id="1o0pGTtE6BkRB5WZnexilbSsNOH" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -54,13 +78,14 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
     <property name="settings.editor.selected.configurable" value="reference.settingsdialog.project.gradle" />
   </component>
-  <component name="RunManager" selected="JUnit.DiallerPageTest">
+  <component name="RunManager" selected="JUnit.ClientJourneyTest">
     <configuration name="ClientJourneyTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="4c_Gold.test" />
       <extension name="coverage">
@@ -155,11 +180,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.ClientJourneyTest" />
         <item itemvalue="JUnit.DiallerPageTest" />
         <item itemvalue="JUnit.TrainingPageTest" />
         <item itemvalue="JUnit.StaffPageTest" />
         <item itemvalue="JUnit.GoldTest" />
-        <item itemvalue="JUnit.ClientJourneyTest" />
       </list>
     </recent_temporary>
   </component>
@@ -173,6 +198,30 @@
       <updated>1612433269835</updated>
     </task>
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="github/master" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/4c_Gold$LoginPageTest_appLoginTest.ic" NAME="LoginPageTest.appLoginTest Coverage Results" MODIFIED="1612460947767" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
